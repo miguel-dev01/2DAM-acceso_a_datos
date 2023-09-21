@@ -14,7 +14,6 @@ public class ejercicio1 {
 			System.out.println(result);
 		}
 		System.out.println("Final: " + result);
-		
-		
+		keyboard.close();
 	}
 }
